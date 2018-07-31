@@ -1,0 +1,13 @@
+{
+  "symbol": "AIP",
+  "address": "0x862ac82542df9a0f25a426a6f6a37b17b74240f6",
+  "overview":{
+        "cn": "连接实体商家和数字支付的链"
+  },
+  "website": "https://www.aipayvip.com",
+  "whitepaper": "https://www.aipayvip.com/whitepaper",
+  "published_on": "2018-07-31",
+  "initial_price":{
+        "USD":"0.05 USD",
+}
+
